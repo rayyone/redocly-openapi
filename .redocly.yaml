@@ -1,7 +1,7 @@
 # See https://redocly.com/docs/cli/configuration/ for more information.
 apis:
-  sample@v1: 
-    root: openapi/openapi.yaml
+  main:
+    root: openapi/swagger.yaml
 lint:
   extends:
     - recommended
